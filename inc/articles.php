@@ -1,0 +1,28 @@
+<div class="list-group">
+    <a href="index.php" class="list-group-item list-group-item-action active titlefont"> <i class="fa fa-tachometer" aria-hidden="true"></i> Articles </a>
+    <a href="https://www.hitwebcounter.com/how-to/nokia-n8.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Nokia N8</a>
+    <a href="https://www.hitwebcounter.com/what-is-my-ip.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> IP address </a>
+    <a href="https://www.hitwebcounter.com/how-to/compare-oppo-reno-2-vs-oppo-reno-3-specs-and-features.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Reno 2 vs Oppo Reno 3</a>
+    <a href="https://www.hitwebcounter.com/how-to/buy-a-laptop.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Buy Cheap Laptops</a>
+    <a href="https://www.hitwebcounter.com/how-to/australia-web-hosting.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Webhosting Australia</a>
+    <a href="https://www.hitwebcounter.com/how-to/uk-web-hosting.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Web Hosting UK</a>
+    <a href="https://www.hitwebcounter.com/how-to/iridium-satellite-phone.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Iridium Satellite Phone</a>
+    <a href="https://www.hitwebcounter.com/how-to/how-to-what-is-business-web-hosting.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Business Web Hosting</a>
+    <a href="https://www.hitwebcounter.com/how-to/how-to-what-is-how-to-make-a-website.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> How To Make A Website</a>
+    <a href="https://www.hitwebcounter.com/how-to/benefits-of-marketing-for-small-business.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Business Marketing</a>
+    <a href="https://www.hitwebcounter.com/how-to/verizon-vs-sprint.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Verizon vs Sprint</a>
+    <a href="https://www.hitwebcounter.com/how-to/always-win-optus.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Optus Always Win</a>
+    <a href="https://www.hitwebcounter.com/how-to/rogers-payasyougo.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Rogers payasyougo</a>
+    <a href="https://www.hitwebcounter.com/how-to/making_php_website.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Making PHP Website</a>
+    <a href="https://www.hitwebcounter.com/how-to/how-to-what-is-broadband-router.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Broadband router</a>
+    <a href="https://www.hitwebcounter.com/how-to/how-to-what-is-att-vs-comcast.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> AT&T vs Comcast</a>
+    <a href="https://www.hitwebcounter.com/how-to/how-to-what-is-dell-laptop-battery.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Dell Laptop Battery</a>
+    <a href="https://www.hitwebcounter.com/how-to/2012-honda-crv.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> 2012 Honda CRV</a>
+    <a href="https://www.hitwebcounter.com/how-to/nissan-altima-2012.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Nissan Altima 2012</a>
+    <a href="https://www.hitwebcounter.com/how-to/how-to-lose-weight-fast.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Lose Weight</a>
+    <a href="https://www.hitwebcounter.com/how-to/how-to-what-is-voip-phone-service.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> VoIp Phone Service</a>
+    <a href="https://www.hitwebcounter.com/how-to/how-to-plan-a-tourist-trip.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Tourist Trip</a>
+    <a href="https://www.hitwebcounter.com/how-to/how-to-what-is-articles-about-travel-hotels-attractions-places-deals-flights.php" target="_blank" class="list-group-item list-group-item-action"> <i class="fa fa-circle text-danger" aria-hidden="true"></i> Tourism Information</a>
+</div>
+<br> <a href="generaldown.php" class="btn btn-primary btn-sm pull-right">View More </a>
+<br>
